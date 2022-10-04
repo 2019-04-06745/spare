@@ -1,0 +1,115 @@
+
+
+/*body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color:gray;
+    text-align: center;
+    font-size: 300px;
+    text-decoration:antiquewhite;
+    
+}
+
+header{
+    background-image:url("/images/spare\ logo7.jpg")  ;
+    background-size: cover;
+    height: 2000px;
+    max-width: 100%;
+    
+    
+}
+div{
+    font-size: 100px;
+    color: white;
+    text-align: left;
+    transition: width 2s, height 4s;
+    width: 100px;
+    height: 100px;
+    background-color: black
+    
+}
+div:hover{
+    width: 300px;
+    height: 150px;
+}
+
+p{
+    text-align: center;
+    font-size: 200px;
+    font-style: italic;
+    background-color: black;
+    color: orangered;
+}
+
+img{
+    width: 2700px;
+    height: 1500px;
+}
+
+footer{
+    text-align: center;
+    font-size: 50px;
+}
+
+@media screen and (max-width: 600px) {*/
+    
+    h1{
+        color:gray;
+        text-align: center;
+        font-size: 70px;
+        text-decoration:antiquewhite;
+    }
+    
+    header{
+        background-image:url("/images/spare\ logo7.jpg")  ;
+        background-size: cover;
+        height: 500px;
+        
+          }
+          a{
+            font-size: 40px;
+            color: white;
+            text-align: left;}
+          
+            div{
+                font-size: 100px;
+                color: white;
+                text-align: left;
+                transition: width 1s, height 2s;
+                width: 100px;
+                height: 100px;
+                background-color: black
+                
+            }
+            div:hover{
+                width: 200px;
+                height: 150px;
+            }
+        
+        a:hover{
+        opacity: 30%;
+    }
+
+        p{
+            text-align: center;
+            font-size: 50px;
+            font-style: italic;
+            background-color: black;
+            color: orangered;
+        }
+        img{
+            width: 100%;
+            height: auto;
+        }
+          
+        
+      footer{
+        text-align: center;
+        font-size: 50px;
+      }
+    
+  
+
